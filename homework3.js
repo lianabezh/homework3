@@ -1,7 +1,7 @@
 const a=function(x,y,z) {
 return (x+y+z)/3;
 };
-console.log(a(1, 2, 3));
+console.log(a(7, 7, 7));
 
 const b=function () {
 	return "function";
@@ -61,7 +61,7 @@ const num=function(number) {
 let num= number+"";
 return num.length;
 }
-console.log(l(1256700));
+console.log(num(1256700));
 
 
 
